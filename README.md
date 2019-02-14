@@ -2,8 +2,6 @@
 Homework #4 from SEDS
 
 
-### Due Feb. 22, 2017 at 11:59PM
-
 _note_ This is almost certainly going to be the most challenging homework so far.  It will build on everything you have learned from flow control, functions, lists, etc.  Although these instructions put the functions before the unit tests, you should follow the test driven development paradigm.
 
 ALL CODE in `.py` files should be pep8 compliant.
