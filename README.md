@@ -18,5 +18,7 @@ ALL CODE in `.py` files should be pep8 compliant.
 
 ### Results of unit tests
 ```
-Paste here!
+Ran 5 tests in 3.673s
+
+OK
 ```
